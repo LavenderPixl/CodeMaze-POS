@@ -1,0 +1,6 @@
+@H3_POS_Api_HostAddress = http://localhost:5140
+
+GET {{H3_POS_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
